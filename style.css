@@ -1,0 +1,22 @@
+div{
+    border: 3px solid blue;
+}
+div.sticky{
+    position: sticky;
+    top: 20px;
+    background-color: blanchedalmond;
+}
+div.Relative{
+    position: Relative;
+    background-color: bisque;
+}
+div.Absolute{
+    position: absolute;
+    background-image: linear-gradient(to right, white, green);
+    }
+
+div.fixed{
+    position: fixed;
+    right: 20px;
+    background-image: linear-gradient(to right, white, green);
+    }
